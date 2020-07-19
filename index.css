@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+}
+.top{
+    background-color:rgb(44, 44, 44) ;
+    height: 190px;
+}
+.top > h1{
+    
+    color: rgb(35, 151, 35);
+    text-align: center;
+    font-size: 105px;
+    font-family: 'Oswald', sans-serif;
+    
+}
+.top > h2{
+    margin-top: -25px;
+    color: rgb(35, 151, 35);
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+.img {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    max-width: 98%;
+    height: 350px;
+    background-image: url('https://www.futomicdesigns.com/images/commercial-interior/top-commercial-interior-designer-01.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+    
+  }
+  .nav{
+      margin-top: 20px;
+      
+      margin-left: 10px;
+      margin-right: 10px;
+      height: 50px;
+     
+  }
+  ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgb(31, 168, 65);
+    border-radius: 10px;
+}
+    
+ li{
+      margin-left: 0px;
+      display: inline;
+      float: left;
+      width: 150px;
+      font-size: 20px;
+
+     
+  }
+  a {
+   
+    margin-left: 0px;
+    display: block;
+    color: ivory;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    padding: 14px 13px;
+    text-align: center;
+    font-size: 22px;
+    
+    
+ }
+ li a:hover {
+    background-color: rgb(5, 109, 45);}
+
+ .bottom{
+     margin-top: 30px;
+     margin-bottom: 20px;
+     width: 40%;
+
+ } 
+
+ dt{
+     margin-left: 30px;
+     font-family: 'Oswald', sans-serif;
+     color: rgb(35, 151, 35);
+     font-size: 20px;
+     
+ } 
+ hr{margin-top: 10px;
+     margin-left: 20px;
+     width: 310px;
+ }
+ dd{margin-top: 30px;
+     margin-left: 55px;
+     font-weight: normal;
+     width: 270px;
+     font-size: 20px;
+     font-family: 'Oswald', sans-serif;
+ }
+ .down{
+     
+     margin-top: 20px;
+ }
+ .left{
+     float: left;
+     width: 50%;
+     
+ }
+ .down > h1{
+    margin-left: 30px;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(35, 151, 35);
+    font-size: 40px;
+ }
+ .down  ul{
+    list-style-type: none;
+    margin-left: 25px;
+    
+    overflow: visible;
+    background-color:white;
+    display: grid;
+
+ }
+ .down  li{
+    margin-left: 0px;
+    margin-top: 5px;
+    float: left;
+    width: 150px;
+
+ }
+ .down  a{
+    margin-left: 0px;
+    text-align: justify;
+    display: block;
+    padding: 8px;
+    color: rgb(29, 29, 18);
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    padding: 14px 13px;
+    
+    font-size: 22px;
+ }
+ .down li a:hover {
+    background-color: rgb(230, 225, 225);
+    width: 250px;
+    
+}
+.right{
+    margin-top: -25px;
+    margin-left: 30px;
+    float: right;
+    width: 40%;
+}
+
+
+.right  h1{
+    margin-left: 110px;
+    
+    width: 800px;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(35, 151, 35);
+    font-size: 70px;
+    text-align: justify;
+}
+.right h2{
+    margin-left: 120px;
+    width: 900px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-size: medium;
+}
+.right p{
+    margin-top: 38px;
+    margin-left: 110px;
+    font-family: 'Oswald', sans-serif;
+    width: 800px;
+    font-weight: 200;
+}
